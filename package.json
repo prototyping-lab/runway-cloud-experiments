@@ -1,0 +1,21 @@
+{
+  "name": "runway-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gpt2": "node gpt2",
+    "depthmap": "node depthmap",
+    "mask": "node mask"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@runwayml/hosted-models": "^0.3.0",
+    "data-urls": "^2.0.0",
+    "dotenv": "^8.2.0",
+    "file-type": "^14.6.2",
+    "mime-types": "^2.1.27"
+  }
+}
