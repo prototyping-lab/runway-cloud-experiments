@@ -15,7 +15,7 @@
     "@runwayml/hosted-models": "^0.3.0",
     "data-urls": "^2.0.0",
     "dotenv": "^8.2.0",
-    "file-type": "^14.6.2",
+    "file-type": "^16.5.4",
     "mime-types": "^2.1.27"
   }
 }
